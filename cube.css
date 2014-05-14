@@ -24,8 +24,9 @@
       height: 360px;
       width: 360px;
       padding: 20px;
-      background-color: rgba(50, 50, 50, 0.7);
+      background-color: red;
       font-size: 27px;
+      font-family: Impact;
       line-height: 1em;
       color: #fff;
       border: 1px solid #555;
